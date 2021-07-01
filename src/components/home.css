@@ -1,0 +1,45 @@
+.body-content{
+    margin: 0px 12% 0px 11%;
+    padding: 48px 12px 48px 12px;
+    text-align: initial;
+}
+.body-content h3{
+    color: #4a4a4a;
+}
+.body-content .item{
+    width: 376px;
+    background: #f4f1fa;
+    margin-right: 23px;
+    padding: 20px;
+}
+.body-content .item p{
+    padding-top: 30px;
+    font-size: smaller;
+}
+.body-content .item Button{
+    float: right;
+    color: #46078d;
+}
+.items{
+    display: flex;
+    margin-top: 24px;
+    color: #46078d;
+}
+.v-icon__svg{
+    width: 23px;
+}
+.second-section{
+    margin-top: 11%;
+}
+#techno{
+    width: 28px;
+}
+.second-section h2,.second-section #outlined-basic{
+    margin-top: 2.3rem;
+}
+.second-section #outlined-basic{
+    width: 451px;
+}
+#lookup{
+    letter-spacing: .2rem;
+}
