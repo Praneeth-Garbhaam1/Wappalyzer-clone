@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link} from 'react-router-dom'
-import Logo from '../wappalyzer-white-1.svg'
+import Logo from '../svg_folder/wappalyzer-white-1.svg'
 import Button from '@material-ui/core/Button';
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 function Nav() {

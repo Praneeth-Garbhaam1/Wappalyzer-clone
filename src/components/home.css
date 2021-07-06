@@ -27,6 +27,8 @@
 }
 .v-icon__svg{
     width: 23px;
+    margin: 5px;
+    color: green;
 }
 .second-section{
     margin-top: 11%;
@@ -42,4 +44,66 @@
 }
 #lookup{
     letter-spacing: .2rem;
+}
+.chip-lists{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    background: #fafafa;
+    padding: 10px;
+}
+#chip-item{
+    background: #faf1fa;
+    color: #46078d;
+    border-radius: 5px;
+    padding: 3px;
+}
+#create-lead{
+    background-color: #46078d;
+    color: #fff;
+    text-transform:unset;
+    padding: 10px;
+}
+#api-btn{
+    padding: 10px;
+    margin-left: 10px;
+    text-transform: unset;
+}
+.browser img{
+    width: 40px;
+    margin-bottom: 16px;
+}
+.companies{
+    display: flex;
+    list-style: none;
+    margin: 8px;
+    justify-content: center;
+    color: grey;
+}
+.companies li{
+    margin: 10px;
+}
+ul li img{
+    width: 60px;
+}
+.profile-card{
+    display: flex;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 8px;
+    width: 373px;
+}
+.profile-cards{
+    margin-left: 40px;
+}
+.profile-card > img{
+    border-radius: 50%;
+    width: 75px;
+    height: 75px;
+    position: relative;
+}
+.profile-content{
+    justify-content: flex-start;
+    font-size: smaller;
+    font-weight: 100;
 }
